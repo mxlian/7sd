@@ -1,0 +1,45 @@
+This is METAFONT, Version 2.718281 (TeX Live 2013/Debian) (base=mf 2014.5.14)  22 DEC 2014 22:30
+**photo.jpg finished.jpg
+(photo.jpg
+! Text line contains an invalid character.
+l.1 ÿ
+     Øÿà^^@^^PJFIF^^@^^A^^A^^@^^@^^A^^@^^A^^@^^@ÿá¢°Exif^^@^^@II*^^@^^H^^@^^...
+
+? 
+! Text line contains an invalid character.
+l.1 ÿØ
+      ÿà^^@^^PJFIF^^@^^A^^A^^@^^@^^A^^@^^A^^@^^@ÿá¢°Exif^^@^^@II*^^@^^H^^@^^...
+
+? 
+! Text line contains an invalid character.
+l.1 ÿØÿ
+       à^^@^^PJFIF^^@^^A^^A^^@^^@^^A^^@^^A^^@^^@ÿá¢°Exif^^@^^@II*^^@^^H^^@^^...
+
+? 
+! Text line contains an invalid character.
+l.1 ÿØÿà
+        ^^@^^PJFIF^^@^^A^^A^^@^^@^^A^^@^^A^^@^^@ÿá¢°Exif^^@^^@II*^^@^^H^^@^^...
+
+? quit
+OK, entering batchmode...
+! Text line contains an invalid character.
+l.1 ÿØÿà^^@
+           ^^PJFIF^^@^^A^^A^^@^^@^^A^^@^^A^^@^^@ÿá¢°Exif^^@^^@II*^^@^^H^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ÿØÿà^^@^^P
+              JFIF^^@^^A^^A^^@^^@^^A^^@^^A^^@^^@ÿá¢°Exif^^@^^@II*^^@^^H^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! Interruption.
+<to be read again> 
+                   JFIF
+l.1 ÿØÿà^^@^^PJFIF
+                  ^^@^^A^^A^^@^^@^^A^^@^^A^^@^^@ÿá¢°Exif^^@^^@II*^^@^^H^^@^^...
+
+? exit
+
