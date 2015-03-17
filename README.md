@@ -1,7 +1,7 @@
 7sd
 ===
 
-A 15 digit 7 segment display.
+A 15 digit 7 segment(test) display.
 
 ![](https://github.com/mxlian/7sd/blob/master/finished.jpg)
 
